@@ -7,8 +7,8 @@
  .error-text {
     display: none;
 }  
-.error-icon{
-    display: none
+.icon{
+    display: none;
 }  
 .error-text {
 	text-align: right;
